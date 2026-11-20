@@ -1,0 +1,21 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.xpr
+*.xdc.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
